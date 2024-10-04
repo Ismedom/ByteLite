@@ -1,5 +1,5 @@
 
-# Image Compression Script
+# Simple Image Compression Script
 
 This Python script compresses images in the `input` directory and outputs the compressed images to the `output` directory. It uses the `Pillow` library to handle image processing and supports multiple formats such as `.jpg`, `.jpeg`, `.png`, `.bmp`, and `.webp`.
 
